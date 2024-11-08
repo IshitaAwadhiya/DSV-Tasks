@@ -46,8 +46,6 @@ Develop a linear regression model using a dataset containing `YearsExperience` a
 
 **Outcome:**  
 A trained linear regression model with an evaluation of prediction accuracy based on MSE, indicating the model’s prediction error on the test set.
-=======
-Outcome :
-     A trained linear regression model with an evaluation of prediction accuracy based on MSE, indicating the model’s prediction error on the test set.
 
->>>>>>> 83cbef21b290f0475d2a63c0f7969c51e49e08dd
+
+
