@@ -17,7 +17,6 @@ Explore the popular Iris dataset to understand the basic characteristics of the 
 **Outcome:**  
 A clear overview of the dataset’s features, their values, and statistical measures to understand data distribution.
 
----
 
 ## 2. Data Splitting
 
@@ -32,9 +31,7 @@ Split the Iris dataset into training and testing sets for effective model traini
 **Outcome:**  
 Separate training and testing datasets to ensure that the model is evaluated on unseen data, which aids in validating model performance.
 
----
 
-<<<<<<< HEAD
 ## 3. Linear Regression
 
 **Objective:**  
