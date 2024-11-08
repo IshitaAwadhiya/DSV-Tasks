@@ -39,3 +39,4 @@ Steps :
 
 Outcome :
      A trained linear regression model with an evaluation of prediction accuracy based on MSE, indicating the model’s prediction error on the test set.
+
